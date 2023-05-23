@@ -1,2 +1,2 @@
 # misiones
-http://ezequielleonzybert.github.io/misiones
+https://ezequielleonzybert.github.io/misiones/
