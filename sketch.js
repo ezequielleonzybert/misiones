@@ -31,6 +31,10 @@ function setup() {
 function draw() {
   background(220);
   
+  text("hola",50,50);
+       
+
+  
   // Actualizar la posición del círculo en función de la velocidad y la aceleración
   velocity.add(acceleration);
   position.add(velocity);
